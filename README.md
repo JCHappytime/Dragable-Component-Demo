@@ -19,7 +19,7 @@
 
 Requires Node.js 6+
 
-## prepare to run in local environment
+## Prepare to run in local environment
 
 - yarn install dependencies / npm install
 - yarn serve / npm run serve
