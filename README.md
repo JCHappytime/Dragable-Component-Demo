@@ -27,5 +27,5 @@ Requires Node.js 6+
 
 ## Others
 
-- 在项目中加入了Cypress进行自动化测试
+- 在项目中加入了[Cypress](https://www.cypress.io/)进行自动化测试
 
