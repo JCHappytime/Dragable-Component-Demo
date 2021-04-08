@@ -25,4 +25,7 @@ Requires Node.js 6+
 - yarn serve / npm run serve
 - visit http://localhost:8080/
 
+## Others
+
+- 在项目中加入了Cypress进行自动化测试
 
