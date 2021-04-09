@@ -14,4 +14,4 @@ Please delete options that are not relevant.
 
 ### Task Details (check to reviewer)
 
-### Some more thought
+### Others
