@@ -5,12 +5,18 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "cy:open": "cypress open",
+    "cy:video": "cypress run"
   },
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "core-js": "^3.6.5",
+    "cypress": "file:cypress-6.6.0.tgz",
     "element-ui": "^2.15.1",
+    "less": "^4.1.1",
+    "less-loader": "^8.1.0",
+    "lodash": "^4.17.21",
     "sass": "^1.32.8",
     "sass-loader": "^11.0.1",
     "vue": "^2.6.11",
