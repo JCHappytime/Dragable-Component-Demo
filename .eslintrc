@@ -1,5 +1,4 @@
 {
-  "extends": ["ncloud"],
   "env": {
     "browser": true,
     "node": true,
