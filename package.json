@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "cy:open": "cypress open",
+    "cypress": "cypress open",
     "cy:video": "cypress run"
   },
   "dependencies": {

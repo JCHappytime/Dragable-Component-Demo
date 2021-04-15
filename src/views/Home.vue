@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Welcome to Dragable-Component-Demo Page</h1>
+    <h1>Home Page</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import { Component, Vue } from 'vue-property-decorator';
 
 @Component({
-  components: {}
+  components: {},
 })
 export default class Home extends Vue {}
 </script>
