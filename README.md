@@ -30,7 +30,6 @@ Requires Node.js 6+
 - visit http://localhost:8080/
 
 ## Others
-
 - 在项目中加入了[Cypress V6.6.0](https://www.cypress.io/)进行端到端的自动化测试
 - 启动Cypress自动化测试: npm run cypress / yarn cypress
 - 所有的测试用例都位于根目录下面的<code>cypress</code>文件夹下面
